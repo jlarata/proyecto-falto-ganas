@@ -1,0 +1,7 @@
+{
+  "name": "proyecto-falto-ganas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

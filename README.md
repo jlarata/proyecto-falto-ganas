@@ -5,5 +5,5 @@
 
 1. Clonar la repo
 2. Ejecutar "npm i"? (no estoy seguro)
-3. Ejecutar "ng serve" (aparentemente también funciona "ionic serve")
+3. Ejecutar "ionic serve"
 4. Abrir en explorador http://localhost:8100/tabs y dirigirse a la tab 2.
